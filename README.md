@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋‍♂️ Hi I'm Sai Surya Charan:
 🔭 Flutter Development And Computer Programming<br>👯 Looking to Collaborate on Mobile app ideas and Development<br>🧑‍💻 Studying Btech CSE at Lovely Professional University<br>🌱 Currently Learning Data Science<br>💬 Open for Contributions<br>✌🏻 I Find Peace at Coding
 
 
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAISURYACHARAN89&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAISURYACHARAN89&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -21,4 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SAISURYACHARAN89&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
